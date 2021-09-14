@@ -4,7 +4,7 @@
 - 🌱 Estou focado em aprender Python/Front-End
 - 📫 Contate-me no email: adrian.brayan.314@gmail.com
 - 😄 Pronomes: Ele/Dele
-- ⚡ Busco trabalhar em deselvolvimento de games
+- ⚡ Busco trabalhar em desenvolvimento de games
 - <div>
   <a href="https://github.com/AdrianLopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianLopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
