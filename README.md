@@ -31,7 +31,7 @@
  
   ![Snake animation](https://github.com/AdrianLopes/AdrianLopes/blob/output/github-contribution-grid-snake.svg)
    
-    ## Total de Visitas no perfil :detective: <br>
+ ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/AdrianLopes/count.svg" />
  </p>
