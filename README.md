@@ -30,5 +30,10 @@
   <a href="https://www.linkedin.com/in/ádrian-nogueira-73b66220b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/AdrianLopes/AdrianLopes/blob/output/github-contribution-grid-snake.svg)
+   
+    ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/AdrianLopes/count.svg" />
+ </p>
  
 </div>
