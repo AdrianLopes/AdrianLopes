@@ -11,6 +11,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianLopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianLopes&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  <p align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianLopes&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
+  <br/>
+</p>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
