@@ -1,6 +1,6 @@
 ### Opaa! Eu sou o Ádrian Matheus Lopes Nogueira
 
-- 🔭 Hoje estudo Ciências da Computação na UAM
+- 🔭 Hoje estudo Sistemas de Informação na Unitau
 - 🌱 Estou focado em aprender Python/Front-End
 - 📫 Contate-me no email: adrian.brayan.314@gmail.com
 - 😄 Pronomes: Ele/Dele
