@@ -1,7 +1,7 @@
 ### Opaa! Eu sou o Ádrian Matheus Lopes Nogueira
 
 - 🔭 Hoje estudo Sistemas de Informação na Unitau
-- 🌱 Estou focado em aprender Python/Front-End
+- 🌱 Estou focado em aprender Full stack
 - 📫 Contate-me no email: adrian.brayan.314@gmail.com
 - 😄 Pronomes: Ele/Dele
 - ⚡ Busco trabalhar em desenvolvimento de games
