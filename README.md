@@ -8,17 +8,13 @@
 
  <div>
   <a href="https://github.com/AdrianLopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianLopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianLopes&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AdrianLopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianLopes&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  <p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianLopes&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
-  <br/>
-</p>
-  
+
   <div style="display: inline_block"><br>
   
-  <img align="right" alt="Gif" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
+<img align="right" alt="Adrian-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/682945175533912163/1016431973188767765/1133950.jpg?width=1191&height=671">
 </div>
   
   ##
