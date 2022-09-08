@@ -21,8 +21,8 @@
 
   <div style="display: inline_block"><br>
  
-   ![a_4526c4901e15da2b871e66af5d449218](https://user-images.githubusercontent.com/88388898/189142216-5383be3d-5c3a-46b6-a94c-ae651cd49095.gif)
-
+   <img align="right" alt="Adrian-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/411618921817309187/1017434091576115240/a_4526c4901e15da2b871e66af5d449218.gif%22%3E">
+</div>
 
   ##
   
