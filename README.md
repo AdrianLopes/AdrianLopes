@@ -12,6 +12,8 @@
 - 😄 Pronomes: Ele/Dele
 - ⚡ Busco trabalhar em desenvolvimento de games
 
+![barrinha](https://user-images.githubusercontent.com/112905085/189121829-f4975713-60c8-411e-a248-b2626234d7ab.gif)
+
  <div>
   <a href="https://github.com/AdrianLopes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AdrianLopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
