@@ -22,7 +22,8 @@
 
   <div style="display: inline_block"><br>
  
-![foto7](https://user-images.githubusercontent.com/88388898/189137762-2c4b8591-abc7-4182-a1fd-b0051c35a7ff.gif)
+<img align="center" alt="Adrian-pic" height="300" style="border-radius:50px;" src="https://media.discordapp.net/attachments/411618921817309187/1017430309211471912/IMG_20220818_174720_407.jpg?width=554&height=554">
+</div>
 
   ##
   
