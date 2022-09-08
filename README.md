@@ -21,11 +21,8 @@
 </div>
 
   <div style="display: inline_block"><br>
-   
-   <img align="right" alt="Adrian-pic" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/88388898/189136092-f8efe995-2d27-4f9d-a30e-ee8b170c3687.gif">
-</div>
  
-    <img align="right" alt="Adrian-pic" height="200" style="border-radius:70px;" src="https://user-images.githubusercontent.com/88388898/189136092-f8efe995-2d27-4f9d-a30e-ee8b170c3687.gif">
+    <img align="right" alt="Adrian-pic" height="100" style="border-radius:50px;" src="https://user-images.githubusercontent.com/88388898/189136092-f8efe995-2d27-4f9d-a30e-ee8b170c3687.gif">
 </div>
 
   ##
