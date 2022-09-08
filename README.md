@@ -26,7 +26,7 @@
 
   <div style="display: inline_block"><br>
  
-<img align="right" alt="Adrian-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/88388898/189140468-65186443-5e93-4736-8afd-93ca4953897c.gif">
+<img align="right" alt="Adrian-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/88388898/189140985-f71f6056-966f-41f8-9474-815ac03a5b2c.gif">
 </div>
 
   ##
