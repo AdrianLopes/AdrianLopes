@@ -1,5 +1,5 @@
 
-![a_4526c4901e15da2b871e66af5d449218](https://cdn.discordapp.com/attachments/953748243156721750/1001642060136333384/a_4526c4901e15da2b871e66af5d449218.gif)
+![a_4526c4901e15da2b871e66af5d449218](https://cdn.discordapp.com/attachments/953748243156721750/955552937214627880/BOASVINDAS.gif)
 
 
 ### Opaa! Eu sou o Ádrian Matheus Lopes Nogueira
