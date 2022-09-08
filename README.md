@@ -21,7 +21,7 @@
 
   <div style="display: inline_block"><br>
  
-   <img align="right" alt="Adrian-pic" height="220" style="border-radius:50px;" src="https://media.discordapp.net/attachments/953748242720497690/1014665330502672514/FYUR4g3WIAA2vxx.jpg">
+   <img align="right" alt="Adrian-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/953748242720497690/1014665330502672514/FYUR4g3WIAA2vxx.jpg">
 </div>
 
   ##
