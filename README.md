@@ -1,5 +1,7 @@
 ### Opaa! Eu sou o Ádrian Matheus Lopes Nogueira
 
+![barrinha](https://user-images.githubusercontent.com/112905085/189121829-f4975713-60c8-411e-a248-b2626234d7ab.gif)
+
 - 🔭 Hoje estudo Sistemas de Informação na Unitau
 - 🌱 Estou focado em aprender Full stack
 - 📫 Contate-me no email: adrian.brayan.314@gmail.com
