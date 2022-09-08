@@ -2,6 +2,9 @@
 <img align="center" alt="Adrian-pic" height="300" style="border-radius:50px;" src="https://user-images.githubusercontent.com/88388898/189132797-5e45a73e-c9a0-4899-8797-ca6f73e8b9e8.gif">
 </div>
 
+![foto7](https://user-images.githubusercontent.com/88388898/189136092-f8efe995-2d27-4f9d-a30e-ee8b170c3687.gif)
+
+
 ### Opaa! Eu sou o Ádrian Matheus Lopes Nogueira
 
 ![barrinha](https://user-images.githubusercontent.com/112905085/189121829-f4975713-60c8-411e-a248-b2626234d7ab.gif)
@@ -21,11 +24,6 @@
 </div>
 
   <div style="display: inline_block"><br>
-  
-
-![a_4526c4901e15da2b871e66af5d449218](https://user-images.githubusercontent.com/88388898/189135624-e67f9a68-147e-4fed-9dd1-5c1dff8ddc7d.gif)
-
-
 
   ##
   
