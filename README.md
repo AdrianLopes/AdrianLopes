@@ -1,5 +1,5 @@
 
-![a_4526c4901e15da2b871e66af5d449218](https://cdn.discordapp.com/attachments/953748243156721750/955552937214627880/BOASVINDAS.gif)
+![BOASVINDAS](https://user-images.githubusercontent.com/88388898/189132797-5e45a73e-c9a0-4899-8797-ca6f73e8b9e8.gif)
 
 
 ### Opaa! Eu sou o Ádrian Matheus Lopes Nogueira
