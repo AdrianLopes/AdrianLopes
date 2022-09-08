@@ -1,8 +1,8 @@
-
+<div>
 <img align="right" alt="Adrian-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/953748243156721750/955552937214627880/BOASVINDAS.gif">
 
 ![BOASVINDAS](https://cdn.discordapp.com/attachments/953748243156721750/955552937214627880/BOASVINDAS.gif)
-
+</div>
 
 ### Opaa! Eu sou o Ádrian Matheus Lopes Nogueira
 
