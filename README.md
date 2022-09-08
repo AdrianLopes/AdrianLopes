@@ -28,7 +28,7 @@
   <a href = "mailto:adrian.brayan.314@gmail.com"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ádrian-nogueira-73b66220b/" target="_blank"><img height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-   <img align="right" alt="Adrian-pic" height="30" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/953748243156721750/1001643034024361994/IMG_8025.gif">
+   <img align="left" alt="Adrian-pic" height="30" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/953748243156721750/1001643034024361994/IMG_8025.gif">
  
  
   ![Snake animation](https://github.com/AdrianLopes/AdrianLopes/blob/output/github-contribution-grid-snake.svg)
