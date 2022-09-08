@@ -1,3 +1,7 @@
+
+![BOASVINDAS](https://cdn.discordapp.com/attachments/953748243156721750/955552937214627880/BOASVINDAS.gif)
+
+
 ### Opaa! Eu sou o Ádrian Matheus Lopes Nogueira
 
 ![barrinha](https://user-images.githubusercontent.com/112905085/189121829-f4975713-60c8-411e-a248-b2626234d7ab.gif)
@@ -18,6 +22,8 @@
   
 <img align="right" alt="Adrian-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/682945175533912163/1016431973188767765/1133950.jpg?width=1191&height=671">
 </div>
+
+
   
   ##
   
