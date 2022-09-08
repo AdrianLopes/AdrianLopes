@@ -30,8 +30,7 @@
    
    <img align="right" alt="Adrian-pic" height="100" style="border-radius:50px;" src="https://user-images.githubusercontent.com/88388898/189122970-6d0274e3-c22a-45ce-9595-2545c1ffefb4.gif">
   
-  
-
+  ![Snake animation](https://cdn.discordapp.com/attachments/953748243156721750/1001643034024361994/IMG_8025.gif)
  
   ![Snake animation](https://github.com/AdrianLopes/AdrianLopes/blob/output/github-contribution-grid-snake.svg)
    
