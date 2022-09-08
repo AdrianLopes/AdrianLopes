@@ -26,8 +26,7 @@
 
   <div style="display: inline_block"><br>
  
-<img align="right" alt="Adrian-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/411618921817309187/1017434091576115240/a_4526c4901e15da2b871e66af5d449218.gif">
-</div>
+![a_4526c4901e15da2b871e66af5d449218](https://user-images.githubusercontent.com/88388898/189140985-f71f6056-966f-41f8-9474-815ac03a5b2c.gif)
 
   ##
   
