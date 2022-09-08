@@ -27,6 +27,9 @@
  	<a href="https://www.twitch.tv/samfox76" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:adrian.brayan.314@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ádrian-nogueira-73b66220b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  ![IMG_8025](https://user-images.githubusercontent.com/88388898/189122970-6d0274e3-c22a-45ce-9595-2545c1ffefb4.gif)
+
  
   ![Snake animation](https://github.com/AdrianLopes/AdrianLopes/blob/output/github-contribution-grid-snake.svg)
    
