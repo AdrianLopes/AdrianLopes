@@ -25,7 +25,8 @@
 <img align="right" alt="Adrian-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/88388898/189135118-b33296ec-30ce-4389-912f-1d16689c3491.gif">
 </div>
 
-![programmer-programming](https://user-images.githubusercontent.com/88388898/189135118-b33296ec-30ce-4389-912f-1d16689c3491.gif)
+![a_4526c4901e15da2b871e66af5d449218](https://user-images.githubusercontent.com/88388898/189135624-e67f9a68-147e-4fed-9dd1-5c1dff8ddc7d.gif)
+
 
 
   ##
