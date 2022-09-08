@@ -1,4 +1,7 @@
 
+<img align="center" alt="Adrian-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/88388898/189132797-5e45a73e-c9a0-4899-8797-ca6f73e8b9e8.gif">
+</div>
+
 ![BOASVINDAS](https://user-images.githubusercontent.com/88388898/189132797-5e45a73e-c9a0-4899-8797-ca6f73e8b9e8.gif)
 
 
